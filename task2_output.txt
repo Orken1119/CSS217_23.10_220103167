@@ -1,0 +1,4 @@
+Student ID: 220103167
+Class Adapter Celsius: 37.0
+Object Adapter Celsius: 37.0
+Identical: true
